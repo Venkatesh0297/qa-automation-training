@@ -1,0 +1,12 @@
+SDLC (Software Development Life Cycle):
+- Planning
+- Creating
+- Testing
+- Deploying software
+
+STLC (Software Testing Life Cycle):
+- Testing activities within SDLC to ensure quality
+
+Agile Methodology Basics:
+- Scrum: iterative sprints, daily standups
+- Kanban: visual workflow, continuous delivery
